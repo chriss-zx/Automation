@@ -37,7 +37,7 @@ public class Metode {
     }
 
 
-    public static void main(String []args) {
+    public static void main(String[] args) {
  /*       salut();
         patrat(12.2);
         suma(14, 15);
@@ -47,8 +47,5 @@ public class Metode {
         sumaN(50);
         System.out.println(sumaN(50));
   */
-
     }
-
-
 }
