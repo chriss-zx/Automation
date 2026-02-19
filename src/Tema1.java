@@ -101,5 +101,6 @@ public class Tema1 {
         System.out.println(media(361278, 2675, 162753));
 
         allNumbers(-12, 27);
+
     }
 }
