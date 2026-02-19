@@ -44,10 +44,10 @@ public class Metode {
         boolean rezultat = numarPar(14);
         System.out.println(rezultat);
         int n = 5;
-        sumaN(n);
-        System.out.println(sumaN(n));
-
+        sumaN(50);
+        System.out.println(sumaN(50));
   */
+
     }
 
 
