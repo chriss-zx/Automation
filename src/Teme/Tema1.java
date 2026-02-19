@@ -1,3 +1,5 @@
+package Teme;
+
 public class Tema1 {
 
     // 6. Creează o metodă care afișează: “Invat Java!”
